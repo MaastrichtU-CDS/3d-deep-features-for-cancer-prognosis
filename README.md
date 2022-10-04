@@ -8,7 +8,9 @@ More specific for step (1)
 
 More details about radiomics feature extraction can be found at the tutorial the pyradiomics https://pyradiomics.readthedocs.io/en/latest/
 
-For extracting 3D deep features from CT, we need to transfer ROI of CT to videos. You can find video generator at  to finish this part of job.
+For extracting 3D deep features from CT, we need to transfer ROI of CT to videos. You can find video generator at 'CreateVideo' folder to finish this part of job.
+Due to the differences of mask storage in datasets, we provided different video generators for each dataset. For example, GenerateLUNG1Video.py can be used to generate 
+video of region of interest (ROI) in LUNG1 dataset.
 
 ## Authors and acknowledgment
 Show your appreciation to those who have contributed to the project.
