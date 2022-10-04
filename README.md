@@ -4,6 +4,8 @@ The source codes for manuscript 'Using 3D Deep Features from CT scans for Cancer
 
 There are three main steps in our studies --(1) deep and radiomics features extraction, (2)feature selection, and (3)Cox proportional hazards models.
 
+![image text](https://github.com/MaastrichtU-CDS/3d-deep-features-for-cancer-prognosis/blob/main/Image/Figure%201.jpg)
+
 ### More details for step (1)
 
 More details about radiomics feature extraction can be found at the tutorial the pyradiomics(https://pyradiomics.readthedocs.io/en/latest/)
