@@ -15,7 +15,10 @@ Due to the differences of mask storage in datasets, we provided different video 
 video of ROI in LUNG1 dataset. An example of generated video -LUNG1-002.mp4- is added in 'CreateVideo' folder too.
 
 Deep features extraction based on deep learning platform Gluon(https://mxnet.apache.org/versions/1.5.0/gluon/index.html). Therefore, before deep feature extraction, we 
-need to establish this platform at your device at first(Both GPU or CPU version are ok). Then you can use FeatureExtractor.py (at '' folder) to extract video's deep features
+need to establish this platform at your device at first(Both GPU or CPU version are ok). Then you can use FeatureExtractor.py (at 'DeepFeaturesExtraction' folder) to 
+extract video's deep features. Deep features of video 'LUNG1-002.mp4' is added in 'DeepFeaturesExtraction' folder as an example. It is need some time to download 
+pretrained action recognition model from when you run FeatureExtractor.py at first time.
+
 
 ## Authors and acknowledgment
 Show your appreciation to those who have contributed to the project.
