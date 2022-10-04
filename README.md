@@ -19,6 +19,7 @@ need to establish this platform at your device at first(Both GPU or CPU version 
 extract video's deep features. Deep features of video 'LUNG1-002.mp4' is added in 'DeepFeaturesExtraction' folder as an example. It is need some time to download 
 pretrained action recognition model from when you run FeatureExtractor.py at first time.
 
+More specific for step (2)
 
 ## Authors and acknowledgment
 Show your appreciation to those who have contributed to the project.
