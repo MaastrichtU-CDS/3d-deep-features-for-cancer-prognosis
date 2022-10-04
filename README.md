@@ -4,7 +4,7 @@ The source codes for manuscript 'Using 3D Deep Features from CT scans for Cancer
 
 There are three main steps in our studies --(1) deep and radiomics features extraction, (2)feature selection, and (3)Cox proportional hazards models.
 
-More details for step (1)
+### More details for step (1)
 
 More details about radiomics feature extraction can be found at the tutorial the pyradiomics(https://pyradiomics.readthedocs.io/en/latest/)
 Tools for generating mask of region of interest (ROI) in different datasets are provided in 'CreateMask' folder. For example, 'NrrdFilemakerForLUNG4.py' can be used to
@@ -19,7 +19,7 @@ need to establish this platform at your device at first(Both GPU or CPU version 
 extract video's deep features. Deep features of video 'LUNG1-002.mp4' is added in 'DeepFeaturesExtraction' folder as an example. It is need some time to download 
 pretrained action recognition model from when you run FeatureExtractor.py at first time.
 
-More details for step (2)
+### More details for step (2)
 
 ## Authors and acknowledgment
 Show your appreciation to those who have contributed to the project.
