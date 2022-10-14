@@ -16,7 +16,9 @@ Deep features extraction based on deep learning platform Gluon(https://mxnet.apa
 
 ### More details for step (2)
 
-Feature selection based on Support Vector Machine - Recursive Feature Elimination (SVM-RFE), MATLAB provided well-developed tool (Funtion -SVMRFE- in MATLAB) to finish this selection. Selection based on normalized radiomics features and deep features, you can find summaried  
+Feature selection based on Support Vector Machine - Recursive Feature Elimination (SVM-RFE), MATLAB provided well-developed tool (Funtion -SVMRFE- in MATLAB) to finish this selection. Selection based on normalized radiomics features and deep features, you can find summaried features of LUNG 1 in NormalizedFeatures files.
+
+### More details for step (3)
 
 ## Authors and acknowledgment
 Show your appreciation to those who have contributed to the project.
