@@ -16,9 +16,10 @@ Deep features extraction based on deep learning platform Gluon(https://mxnet.apa
 
 ### More details for step (2)
 
-Feature selection based on Support Vector Machine - Recursive Feature Elimination (SVM-RFE), MATLAB provided well-developed tool (Funtion -SVMRFE- in MATLAB) to finish this selection. Selection based on normalized radiomics features and deep features, you can find summaried features of LUNG 1 in NormalizedFeatures files.
+Feature selection based on Support Vector Machine - Recursive Feature Elimination (SVM-RFE), MATLAB provided well-developed tool (Funtion -SVMRFE- in MATLAB) to finish this selection. Selection based on normalized radiomics features and deep features, you can find summaried features of LUNG 1 in SummariedFeatures folder.
 
 ### More details for step (3)
+Cox proportional hazards models developed based on CoxPHFitter(https://lifelines.readthedocs.io/en/latest/fitters/regression/CoxPHFitter.html). You need to install lifeLine python codes package (https://lifelines.readthedocs.io/en/latest/) in your environment at first. Our python practice of Cox proportional hazards models can be found in folder, at the same time, you can also find the summaried selected deep feature of LUNG 1 for Cox analysis in folder. 
 
 ## Authors and acknowledgment
 Show your appreciation to those who have contributed to the project.
