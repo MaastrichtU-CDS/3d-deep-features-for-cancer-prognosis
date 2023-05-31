@@ -23,6 +23,3 @@ Cox proportional hazards models developed based on CoxPHFitter (https://lifeline
 
 ## Authors and acknowledgment
 Junhua Chen acknowledge the financial support from China Scholarship Council scholarship (201906540036).
-
-## License
-For open source projects, say how it is licensed.
